@@ -1,0 +1,78 @@
+* { padding: 0;
+    margin: 0;
+}
+
+.profile-img {
+    background-color: rgb(116, 116, 116);
+    text-align: center;
+    height: 300px;
+}
+
+.profile-img img{
+    width: 135px;
+    height: 240px;
+    border-radius: 40px;
+    margin: 30px;
+}
+
+.profile-myinfo{
+    text-align: center;
+    margin: 40px auto;
+    margin-bottom: 20px;
+    width: 270px;
+}
+
+.profile-myinfo h1{
+    margin-bottom: 30px;
+}
+
+.profile-myinfo li{
+    list-style: none;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 30px;
+    margin-bottom: 10px;
+}
+
+#name {
+    background:url("used_img/nameicon.png") no-repeat;
+    background-size: 25px auto;
+}
+
+#school {
+    background:url("used_img/smc-logo.jpg") no-repeat;
+    background-size: 25px auto;
+}
+
+.ment {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-bottom: 1px solid black;
+}
+
+.License {
+    text-align: center;
+    margin-top: 30px; margin-bottom: 30px;
+    background: rgb(237, 237, 237);
+}
+
+.License h1{
+    margin: 20px;
+}
+
+.License li{
+    bottom: 10px;
+    margin-bottom: 10px;
+}
+.logo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.another {
+    text-align: center;
+    font-size: 5px;
+    color: gray;
+    margin-bottom: 10px;
+}
